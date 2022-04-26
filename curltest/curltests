@@ -1,0 +1,2 @@
+curl -X POST -H "Content-type: application/json" -d 'INCOME 2020/01/01 gift 500'  http://localhost:8080/balance
+curl -X POST -H "Content-type: application/json" -d 'PRINT DAY 2020/01/01'  http://localhost:8080/balance
